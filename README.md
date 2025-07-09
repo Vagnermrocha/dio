@@ -1,25 +1,60 @@
-# Credit Card Validator
+💳 Validador de Cartão de Crédito – TypeScript
 
-Este é um projeto em TypeScript para validar números de cartões de crédito com base nas bandeiras e nos números iniciais.
+Projeto desenvolvido como parte dos estudos na DIO (Digital Innovation One). O objetivo é validar números de cartões de crédito com base nas principais bandeiras, utilizando lógica em TypeScript.
 
-## Funcionalidades
+🚀 Tecnologias utilizadas
 
-- Validação de cartões de crédito das seguintes bandeiras:
+- TypeScript
+- JavaScript
+- HTML / CSS
+
+📦 Funcionalidades
+
+- ✅ Validação de número de cartão
+- ✅ Identificação da bandeira:
   - Visa
   - Mastercard
   - Elo
   - American Express
   - Discover
   - Hipercard
+- ✅ Interface simples para testes
 
-## Como usar
+▶️ Como executar o projeto
 
-### 1. Clonar o repositório
+1. Clone o repositório:
 
-```bash
-git clone https://github.com/usuario/credit-card-validator.git
-cd credit-card-validator
+`bash
+git clone https://github.com/Vagnermrocha/dio.git
+cd dio/credit-card-validator
+`
 
+2. Instale as dependências (se houver):
+
+`bash
 npm install
+`
 
+3. Execute o projeto:
+
+`bash
 npm run build
+`
+
+Ou abra o index.html diretamente no navegador para testar.
+
+📚 Aprendizados
+
+Este projeto foi criado para praticar:
+- Lógica de programação com TypeScript
+- Estruturação de funções puras
+- Identificação de padrões numéricos
+- Boas práticas com validação de entrada
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+Desenvolvido com 💻 por Vagner Rocha
