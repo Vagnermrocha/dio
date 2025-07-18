@@ -51,10 +51,6 @@ Este projeto foi criado para praticar:
 - Identificação de padrões numéricos
 - Boas práticas com validação de entrada
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ---
 
 Desenvolvido com 💻 por Vagner Rocha
